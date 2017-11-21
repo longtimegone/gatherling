@@ -1,0 +1,41 @@
+Return-path: <>
+Envelope-to: gatherli@thunderbolt.hawkhost.com
+Delivery-date: Fri, 08 Jun 2012 18:25:37 -0400
+Received: from mailnull by thunderbolt.hawkhost.com with local (Exim 4.77)
+	id 1Sd7cf-003Oi6-C1
+	for gatherli@thunderbolt.hawkhost.com; Fri, 08 Jun 2012 18:25:37 -0400
+X-Failed-Recipients: dbillett1@materion.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@thunderbolt.hawkhost.com>
+To: gatherli@thunderbolt.hawkhost.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Sd7cf-003Oi6-C1@thunderbolt.hawkhost.com>
+Date: Fri, 08 Jun 2012 18:25:37 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  dbillett1@materion.com
+    SMTP error from remote mail server after RCPT TO:<dbillett1@materion.com>:
+    host asp2.beminc.com [66.219.172.221]: 550 cuda_nsu dbillett1@materion.com... No such user
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <gatherli@thunderbolt.hawkhost.com>
+Received: from gatherli by thunderbolt.hawkhost.com with local (Exim 4.77)
+	(envelope-from <gatherli@thunderbolt.hawkhost.com>)
+	id 1Sd7ce-003Ohq-KH; Fri, 08 Jun 2012 18:25:36 -0400
+To: dbillett1@materion.com
+Subject: Update Request
+X-PHP-Script: www.gatherling.com/message.php for 166.249.113.130
+From:Gatherling.com <no-reply@Gatherling.com>
+Message-Id: <E1Sd7ce-003Ohq-KH@thunderbolt.hawkhost.com>
+Date: Fri, 08 Jun 2012 18:25:36 -0400
+
+*** This is a copy of the Update Request that mtgo_id submitted to Gatherling.com
+Final's email address is: dbillett1@materion.com.
+Here is the Update Request: 
+
+Hope this is it!

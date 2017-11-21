@@ -1,0 +1,6 @@
+Disk quotas for user gatherli (uid 900): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/root       4  3072000 3072000               3       0       0        
+      /dev/sda8   48440  3072000 3072000            3497       0       0        
+      /dev/sda3       0  3072000 3072000               0       0       0        
+      /dev/sda2      44  3072000 3072000              12       0       0        

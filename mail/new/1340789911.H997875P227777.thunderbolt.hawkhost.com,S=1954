@@ -1,0 +1,47 @@
+Return-path: <>
+Envelope-to: gatherli@thunderbolt.hawkhost.com
+Delivery-date: Wed, 27 Jun 2012 05:38:32 -0400
+Received: from mailnull by thunderbolt.hawkhost.com with local (Exim 4.77)
+	id 1Sjohj-000xFg-QF
+	for gatherli@thunderbolt.hawkhost.com; Wed, 27 Jun 2012 05:38:31 -0400
+X-Failed-Recipients: Leagues@thunderbolt.hawkhost.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@thunderbolt.hawkhost.com>
+To: gatherli@thunderbolt.hawkhost.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Sjohj-000xFg-QF@thunderbolt.hawkhost.com>
+Date: Wed, 27 Jun 2012 05:38:31 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  Leagues@thunderbolt.hawkhost.com
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <gatherli@thunderbolt.hawkhost.com>
+Received: from gatherli by thunderbolt.hawkhost.com with local (Exim 4.77)
+	(envelope-from <gatherli@thunderbolt.hawkhost.com>)
+	id 1Sjohj-000xF2-3X; Wed, 27 Jun 2012 05:38:31 -0400
+To: Leagues@thunderbolt.hawkhost.com
+Subject: Update Request
+X-PHP-Script: www.gatherling.com/message.php for 88.104.111.47
+From:Gatherling.com <no-reply@Gatherling.com>
+Message-Id: <E1Sjohj-000xF2-3X@thunderbolt.hawkhost.com>
+Date: Wed, 27 Jun 2012 05:38:31 -0400
+
+*** This is a copy of the Update Request that chrisjw submitted to Gatherling.com
+chrisjw's email address is: Leagues.
+Here is the Update Request: 
+
+Hi Dabil
+
+I notice you are already thinking about improvemnts to gaterling for leagues (showing players registered during the season) but would it also be possible to maybe have a box under the upcoming events on the homepage for "ongoing leagues" so once the event has started gatherling still advertises it for the duration.
+
+Thanks
+
+Chris
+

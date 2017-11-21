@@ -1,0 +1,162 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>Hawk Host - Welcome To Hawk Host!</title>
+
+<meta name="keywords" content="Hawk Host, hawkhost, shared hosting, shared web hosting, virtual hosting, virtual web hosting, virtual webhosting, virtual private servers" />
+
+<meta name="description" content="Hawk Host - Shared Hosting services, Virtual Web Hosting" />
+
+<link href="http://www.hawkhost.com/style.css" rel="stylesheet" type="text/css" />
+
+<script type="text/JavaScript" src="http://www.hawkhost.com/js/jquery.js"></script>
+
+<script type="text/JavaScript" src="http://www.hawkhost.com/js/site.js"></script>
+
+</head>
+
+
+
+<body onload="MM_preloadImages('images/more_over.gif')">
+
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+
+ 
+
+
+  <tr>
+
+    <td class="innerHeader"><h1>Welcome To Hawk Host</h1>
+
+
+
+      <h2>You can now start building your website!</h2></td>
+
+  </tr>
+
+  <tr>
+
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+      <tr>
+
+
+
+        <td valign="top" style="padding:20px;"><p>
+
+        
+
+        </p>
+
+<h1>Why am I seeing this page?</h1>
+<p>
+	You're seeing this page because you haven't uploaded any files yet. You can connect to your website via FTP using <a href="https://support.hawkhost.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=80" target="_blank">these instructions</a> and upload your website. Alternatively you can use RVSiteBuilder which is available inside of the control panel to start building your website.
+</p>
+<br />
+<h2>Frequently Asked Questions</h2>
+<br />
+<p>
+	
+	<h3><a href="https://support.hawkhost.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=154" target="_blank">How do I transfer from another host?</a></h3>
+	<p>
+		All accounts include free migration assistance from your old provider. If you'd like to have our support team move your account, please contact us via support ticket (<a href="https://support.hawkhost.com">https://support.hawkhost.com</a>) and use the 'Account Transfers' department. You will be provided with a form asking for your domain name / IP, username, password, and any special instructions.
+		<br /><br />
+		Alternatively if you have a full backup (cPanel backup, for example) you can upload it to your account with us and our technicians can restore from there.
+	</p>
+	
+	<h3><a href="https://support.hawkhost.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=90" target="_blank">Where are server notices &amp; maintenance posted?</a></h3>
+	<p>
+		We post all scheduled maintenance in our forums at least 48-72 hours before it takes place. All emergency maintenance is also posted in our forums. We highly recommend you register for the forums and subscribe to the relevant forum threads (your server & location) to receive e-mail updates for any scheduled or emergency maintenance.
+		<br /><br />
+		You can find the relevant information by visiting our network and server status forum: <a href="http://forums.hawkhost.com/forum/5-network-and-server-status/" target="_blank">http://forums.hawkhost.com/forum/5-network-and-server-status/</a>
+	</p>
+
+	<h3><a href="https://support.hawkhost.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=76" target="_blank">How do I create e-mail accounts?</a></h3>
+	<p>
+		<ol>
+			<li>Login to your cPanel account, and type 'Email Accounts' in the top left finder. (<a href="http://images.hawkhost.com/Email/email_accounts.png" target="_blank">Picture</a>)</li>
+			<li style="padding-top:5px;">Modify the fields at the top of the page, inputting the information you'd like including the email address, password, and quota. (<a href="http://images.hawkhost.com/Email/add_account.png" target="_blank">Picture</a>)</li>
+			<li style="padding-top:5px;">Click 'Create Account'. The account is now ready to be used and accessed through either webmail, or an email client.</li>
+		</ol>
+	</p>
+	
+	<h3><a href="https://support.hawkhost.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=37" target="_blank">Is SSH access enabled?</a></h3>
+	<p>
+		Yes, SSH is enabled by default for all accounts. If you experience any issues please contact our <a href="https://support.hawkhost.com" target="_blank">support department</a>.
+</p>
+
+</td>
+
+<td width="258" valign="top" bgcolor="#e9e9e9" style="padding:10px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+          <tr>
+
+            <td><div id="sidermenu">
+
+                            <ul>
+
+                              <li><a href="http://www.hawkhost.com">Hawk Host</a></li>
+
+                              <li><a href="https://support.hawkhost.com/">Support Center</a></li>
+
+							  <li><a href="https://my.hawkhost.com/">Client Area</a><li>
+							  
+                              <li><a href="https://support.hawkhost.com/index.php?_m=knowledgebase&_a=view">Knowledge Base</a><li>
+
+                              <li><a href="/cpanel">Login to cPanel</a></li>
+
+                              </ul>
+
+                            </div></td>
+
+          </tr> 
+
+                
+
+        </table></td>
+
+      </tr>
+
+    </table></td>
+
+
+
+  </tr>
+
+  
+
+  <tr>
+
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0" style="background:url(http://www.hawkhost.com/images/bottom-bg.gif) repeat-x;">
+
+      <tr>
+
+        <td valign="top" class="BottomNav"><img src="http://www.hawkhost.com/images/bottom-1.jpg" width="70" height="33" align="middle" /><a href="http://www.hawkhost.com/">Home</a> | <a href="http://www.hawkhost.com/About">About Us</a> | <a href="http://www.hawkhost.com/Shared">Shared Hosting</a> | <a href="http://www.hawkhost.com/Reseller">Reseller Hosting</a> | <a href="https://my.hawkhost.com/domainchecker.php">Domains</a>| <a href="http://www.hawkhost.com/Sslcertificate">SSL</a> | <a href="http://www.froghost.com/">Unlimited Hosting</a> | <a href="http://www.hawkhost.com/Vps">VPS</a> |<a href="http://www.hawkhost.com/Network"> Network</a> | <a href="http://support.hawkhost.com/index.php?group=default">Support</a> | <a href="http://www.hawkhost.com/Legal">Legal</a> | <a href="http://www.hawkhost.com/Contact">Contact Us</a></td>
+
+
+
+      </tr>
+
+      <tr>
+
+        <td class="BottomText">Copyright &copy; 2011 Hawk Host, All Rights Reserved.  <a href="http://www.hawkhost.com/blog/">Blog</a> | <a href="http://www.hawkhost.com/forums/">Forum</a> | <a href="http://www.hawkhost.com/clients/">Billing Login</a> | </td>
+
+
+
+      </tr>
+
+    </table></td>
+
+  </tr>
+
+</table>
+
+</body>
+
+</html>

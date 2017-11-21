@@ -1,0 +1,47 @@
+Return-path: <>
+Envelope-to: gatherli@thunderbolt.hawkhost.com
+Delivery-date: Wed, 06 Jun 2012 14:26:23 -0400
+Received: from mailnull by thunderbolt.hawkhost.com with local (Exim 4.77)
+	id 1ScKw3-002S54-TD
+	for gatherli@thunderbolt.hawkhost.com; Wed, 06 Jun 2012 14:26:23 -0400
+X-Failed-Recipients: $dbillett1@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@thunderbolt.hawkhost.com>
+To: gatherli@thunderbolt.hawkhost.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ScKw3-002S54-TD@thunderbolt.hawkhost.com>
+Date: Wed, 06 Jun 2012 14:26:23 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  $dbillett1@gmail.com
+    SMTP error from remote mail server after RCPT TO:<$dbillett1@gmail.com>:
+    host gmail-smtp-in-v4v6.l.google.com [173.194.73.27]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 dr7si600011vdb.9
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <gatherli@thunderbolt.hawkhost.com>
+Received: from gatherli by thunderbolt.hawkhost.com with local (Exim 4.77)
+	(envelope-from <gatherli@thunderbolt.hawkhost.com>)
+	id 1ScKw0-002S3J-Ln
+	for $dbillett1@gmail.com; Wed, 06 Jun 2012 14:26:20 -0400
+To: $dbillett1@gmail.com
+Subject: Aliens Abducted Me - Abduction Report
+X-PHP-Script: www.gatherling.com/aliensabductedme/report.php for 166.249.96.149
+From:Dabil@gatherling.com
+Message-Id: <E1ScKw0-002S3J-Ln@thunderbolt.hawkhost.com>
+Date: Wed, 06 Jun 2012 14:26:20 -0400
+
+Daniel Billett was abducted last year and was gone for 11 hours.
+Number of aliens: 12
+Alien description: little blobs
+What they did: asked about UFO regulations
+Fang spotted: yes
+Other comments: Please vote for me!

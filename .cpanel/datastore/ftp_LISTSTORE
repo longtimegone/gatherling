@@ -1,0 +1,1 @@
+{"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","mode":"simple","status":1,"version":"2.3","data":[{"user":"gatherli","type":"main","homedir":"/home/gatherli"},{"user":"gatherli_logs","type":"logaccess","homedir":"/usr/local/apache/domlogs/gatherli"}],"exit_code":0,"timeout":0,"error":0,"action":"fetch"}
